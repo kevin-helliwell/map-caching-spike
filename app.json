@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d14c8b06-90f6-4fba-8ee6-42d3b3200b3c"
+      }
+    },
+    "owner": "khelliwell"
   }
 }
